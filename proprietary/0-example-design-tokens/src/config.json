@@ -1,0 +1,8 @@
+{
+  "fullName": "Example design tokens",
+  "name": "Example",
+  "prefix": "example",
+  "components": {
+    "@utrecht/button": true
+  }
+}

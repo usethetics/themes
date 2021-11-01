@@ -1,0 +1,17 @@
+{
+  "example": {
+    "color": {
+      "blue": {
+        "20": {
+          "value": "blue",
+          "$comment": "Primary blue"
+        }
+      },
+      "grey": {
+        "100": {
+          "value": "white"
+        }
+      }
+    }
+  }
+}
